@@ -1,0 +1,125 @@
+/* Bio Styles */
+/* Body, Table, images, Paragraph, etc */
+body
+{
+	background-color:#364F6B;
+}
+
+	
+table
+{
+	width:100%;	
+	background-color: #F0FFF0;
+}
+
+th
+{
+	font-family: Lato;
+	font-size: 60px;
+	height: 130px
+}
+
+img	
+{
+	border: 10px solid #333;
+	margin-right: 15px;
+	float: right;
+	width:250px;
+	height:350px;
+}
+
+
+p {
+	font-family:"Lato";
+	font-size: 20px;
+}
+/* Classes */
+.containmenu
+{
+	width:16%;
+	vertical-align: top;
+}
+/* All content cells */
+.contentcell	
+{	
+	width:99%;
+	vertical-align: top;
+	background-color:#F0FFF0;
+	height:30px;
+	padding: 5px;
+}
+.contentcell_2	
+{	
+	width:99%;
+	vertical-align: top;
+	background-color:#F0FFF0;
+	height: 370px;
+	padding: 5px;
+	float: left;
+}
+.contentcell_3
+{
+	width:99%;
+	vertical-align: top;
+	background-color:#F0FFF0;
+	height:370px;
+	padding: 5px;
+	float: left;
+}
+.contentcell_4
+{
+	width:99%;
+	vertical-align: top;
+	background-color:#F0FFF0;
+	height:150px;
+	padding: 5px;
+	float: left;
+}
+.contentcell_5
+{
+	width:99%;
+	vertical-align: top;
+	background-color:#F0FFF0;
+	height:50px;
+	padding: 5px;
+	float: left;	
+}
+
+.menutable
+{
+	border-spacing:15px;
+}
+
+
+.menucell
+{
+	background-color:#F0F0F0;
+	border:20px solid blue;
+	color:red;
+	font-size:22px;
+	font-family:"Lato", serif;
+}
+/* Navigation Bar */
+.topnav {
+	background-color: #364F6B;
+	overflow: hidden;
+}
+
+.topnav a {
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.checker{
+	width: 165px;
+	height: 64px;
+}
